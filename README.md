@@ -84,7 +84,7 @@ git branch
 ```
 docker build -t <image_name>:<tagname> .
 ```
-> Note: Image name for docker must be lowercase
+> Note: Image name for docker must be lowercase. Tag name can be anything, usually we use - latest
 
 - To list docker image (get image id)
 ```
